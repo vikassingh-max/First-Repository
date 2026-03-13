@@ -1,2 +1,2 @@
 # First-Repository
-Basic of wd
+Basic of wd.
